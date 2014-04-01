@@ -1,3 +1,3 @@
-After the project, you can review the solution here:
+The Relational Mapper
 
-* https://github.com/appacademy-solutions/active_record_lite/tree/solution
+* An Object Relational Mapping project built to better understand the inner workings of active record. 
