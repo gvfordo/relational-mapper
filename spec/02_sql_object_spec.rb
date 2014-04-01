@@ -85,7 +85,6 @@ describe SQLObject do
   describe "#update" do
     it "#update changes attributes" do
       human = Human.find(2)
-
       human.fname = "Matthew"
       human.lname = "von Rubens"
       human.update
